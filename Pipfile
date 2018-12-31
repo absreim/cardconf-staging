@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 requests = "*"
-psycopg2-binary = "*"
 psycopg2 = "*"
 
 [requires]
